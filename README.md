@@ -8,4 +8,6 @@ Rex is the founder of [Sapien Forming](https://medium.com/sapien-forming) and di
 
 Rex was a two-time International Biology Olympiad Winner and a published author of classical poetry. 
 
+[Contact Rex](https://meanmachinerex.flounder.online/contact.gmi)
+
 ![](https://meanmachinerex.flounder.online/skeleton.jpg)
