@@ -22,7 +22,6 @@ Rex is also a published author of classical poetry📜.
 </a>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&layout=compact)](https://github.com/RexRowan/github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&layout=compact)](https://github.com/RexRowan/github-readme-stats)
 
 
