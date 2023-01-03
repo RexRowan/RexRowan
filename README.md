@@ -4,3 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=RexRowan&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
