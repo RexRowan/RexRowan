@@ -8,3 +8,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=RexRowan&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
