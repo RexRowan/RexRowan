@@ -11,4 +11,5 @@
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">
+
+
