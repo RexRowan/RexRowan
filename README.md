@@ -7,6 +7,17 @@
 
 ---
 
+<p>
+    <img src="https://img.shields.io/badge/-python-green" alt="python badge">
+    <img src="https://img.shields.io/badge/-go-red" alt="go badge">
+    <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
+    <img src="https://img.shields.io/badge/-bash-orange" alt="bash badge">
+    <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript badge">
+    <img src="https://img.shields.io/badge/-html-purple" alt="html badge">
+    <img src="https://img.shields.io/badge/-css-pink" alt="css badge">
+</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=RexRowan&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
