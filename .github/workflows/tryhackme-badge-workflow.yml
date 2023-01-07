@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: RexRowan/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
-          username: "<USERNAME>"
+          username: "RexRowan"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
