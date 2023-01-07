@@ -20,7 +20,11 @@
 [![](https://visitcount.itsvg.in/api?id=RexRowan&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 [<img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">](https://tryhackme.com/p/MeanMachineRex)
 
+<<<<<<< HEAD
 ![tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)
+=======
+[![Rex's tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)][tryhackme]
+>>>>>>> 5ccb81fe1a71d30f735f1422d5b344cad021b4a6
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
