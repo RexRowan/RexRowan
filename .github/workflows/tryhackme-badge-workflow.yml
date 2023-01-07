@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "RexRowan"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{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}}
