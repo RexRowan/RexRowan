@@ -19,6 +19,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=RexRowan&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ![tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)
+<img src="http://www.hackthebox.eu/badge/image/1354396" alt="Hack The Box">
+
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
 
