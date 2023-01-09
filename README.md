@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E1F7&width=435&lines=I+will+annihilate+you!)](https://git.io/typing-svg)
 
-<div>
-  <a href="https://github.com/RexRowan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RexRowan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<img align="left" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />     ![Rex's github stats](https://github-readme-stats.vercel.app/api?username=RexRowan&show_icons=true&theme=dracula)
 
 ---
 
@@ -23,7 +18,7 @@
 ![tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)
 <img src="http://www.hackthebox.eu/badge/image/1354396" alt="Hack The Box">
 
-<img align="center" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />
+
 
 
  
