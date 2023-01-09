@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1DEBF7&width=435&lines=I+will+annihilate+you!)](https://git.io/typing-svg)
 
-
-
 <div>
   <a href="https://github.com/RexRowan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RexRowan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
