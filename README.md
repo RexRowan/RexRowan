@@ -1,3 +1,7 @@
+
+
+
+
 <div>
   <a href="https://github.com/RexRowan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RexRowan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,7 +25,7 @@
 ![tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)
 <img src="http://www.hackthebox.eu/badge/image/1354396" alt="Hack The Box">
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+<img align="center" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />
 
 
  
