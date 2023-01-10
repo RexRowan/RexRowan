@@ -27,7 +27,7 @@
 0 # Hello
 1
 2 This is my GitHub profile 
-3
+3 /\<Rex\>
 4
 5     d8888   .d8888b.      d8888  
 6    d8P888  d88P  Y88b    d8P888  
