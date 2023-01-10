@@ -42,7 +42,7 @@
 5 |  \| |/ _ \| __| | |_ / _ \| | | | '_ \ / _` |
 4 | |\  | (_) | |_  |  _| (_) | |_| | | | | (_| |
 3 |_| \_|\___/ \__| |_|  \___/ \__,_|_| |_|\__,_|
-2 There is no /rex page on this server! Sir, are you lost?
+2 There is no /Rex page on this server! Sir, are you lost?
 1
 -----------------------------------------------------------------
 NORMAL  RexRowan/README.md[+]                100% ln:3/3 ☰℅:29
