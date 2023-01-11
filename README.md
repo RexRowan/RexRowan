@@ -1,10 +1,8 @@
+
+
+<img align="center" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />    
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E1F7&width=435&lines=I+will+annihilate+you!)](https://git.io/typing-svg)
-
-<img align="left" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />    
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RexRowan&show_icons=true&theme=radical" />
-</a></p>
 
 ---
 
