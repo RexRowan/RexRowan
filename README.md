@@ -2,7 +2,7 @@
 <p align="center"> <img width="240" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF85&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Rex%2C+wake+up!+;Follow+the+black+wolf!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Rex%2C+wake+up!+;Follow+the+black+wolf!)](https://git.io/typing-svg)
 
 ---
 
