@@ -1,9 +1,9 @@
-
-
-<img align="center" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif" width="240px" />    
-
+<br>
+<p align="center"> <img width="240" src="https://media.tenor.com/Nzdiy3Bm1i8AAAAC/anonymous-anonymiss.gif"/>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E1F7&width=435&lines=I+will+annihilate+you!)](https://git.io/typing-svg)
+
 ---
 
 <p>
