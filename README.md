@@ -8,9 +8,9 @@
 
 <div align="center">
  
- <img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">
+  <a href="https://app.hackthebox.com/users/1354396"><img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">
  
-   ![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)      
+   <a href="https://tryhackme.com/p/MeanMachineRex"> ![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)      
 
   <a href="https://www.codewars.com/users/Mean%20Machine%20Rex"> <img src="https://www.codewars.com/users/Mean%20Machine%20Rex/badges/large" />
  
