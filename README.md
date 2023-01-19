@@ -8,11 +8,12 @@
 
 <div align="center">
  
-   ![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)   
-   
+   ![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)      
+ 
    <img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">
 
    <img src="https://www.codewars.com/users/Mean%20Machine%20Rex/badges/large" />
+ 
  </div>
  
 ---
