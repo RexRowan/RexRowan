@@ -8,7 +8,7 @@
 
 <div align="center">
  
-  <a href="https://tryhackme.com/p/MeanMachineRex"> ![tryhackme stats](https://raw.githubusercontent.com/RexRowan/RexRowan/master/assets/thm_propic.png)
+  <a href="https://tryhackme.com/p/MeanMachineRex"> <img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="TryHackMe">
  
   <a href="https://app.hackthebox.com/users/1354396">![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)
 
