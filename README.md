@@ -10,7 +10,6 @@
  
   <a href="https://tryhackme.com/p/MeanMachineRex"><img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="169:D">
  
-  <a href="https://app.hackthebox.com/users/1354396">![https://app.hackthebox.com/profile/1354396](https://www.hackthebox.eu/badge/image/1354396)
 
   <a href="https://www.codewars.com/users/Mean%20Machine%20Rex"> <img src="https://www.codewars.com/users/Mean%20Machine%20Rex/badges/large" />
  
