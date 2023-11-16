@@ -22,3 +22,14 @@
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+```vim
+Current Status:
+
+Fullstack Open 2023 Helsinki
+
+.part2C/notes
+
+resolving 404 issue with db.json from the json server
+
+```
