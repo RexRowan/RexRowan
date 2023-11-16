@@ -30,15 +30,7 @@
 ```vim
 Current Status:
 
--Fullstack Open 2023 Helsinki
-
-.part2C/notes
-😀 JSON server is running 
-😕 404 issue with db.json
-
--Deployment Issues with redirects
-   --Vercel
-   --Netlify
+All Systems Operational
 ```
 
  <p align="center">
