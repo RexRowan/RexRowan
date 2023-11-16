@@ -14,8 +14,6 @@
  
 
   <a href="https://www.codewars.com/users/Mean%20Machine%20Rex"> <img src="https://www.codewars.com/users/Mean%20Machine%20Rex/badges/large" />
-
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1112754027&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
  </div>
 
