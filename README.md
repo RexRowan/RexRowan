@@ -28,10 +28,13 @@
 ```vim
 Current Status:
 
-Fullstack Open 2023 Helsinki
+-Fullstack Open 2023 Helsinki
 
 .part2C/notes
+😀 JSON server is running 
+😕 404 issue with db.json
 
-resolving 404 issue with db.json from the json server
-
+-Deployment Issues with redirects
+   --Vercel
+   --Netlify
 ```
