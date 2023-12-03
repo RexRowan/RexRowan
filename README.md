@@ -17,7 +17,7 @@
  
  </div>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,c,js,react,vite,html,css,bootstrap,nodejs,sqlite,mysql,mongodb,docker,python,django,flask,matlab,pytorch,tensorflow,git,gitlab,github&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,c,js,next,react,vite,html,css,sass,bootstrap,nodejs,nginx,sqlite,mysql,mongodb,firebase,docker,kubernetes,python,django,flask,matlab,pytorch,tensorflow,git,gitlab,github,flutter&perline=15" alt="Tech Stack" /> 
  
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
