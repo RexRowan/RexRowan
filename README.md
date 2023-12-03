@@ -17,7 +17,7 @@
  
  </div>
 
-
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,c,js,react,vite,html,css,nodejs,sqlite,python,matlab,pytorch,git&perline=15" alt="Tech Stack" /> 
  
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
