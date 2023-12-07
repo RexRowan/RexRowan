@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,gitlab,github,githubactions,md,html,css,sass,emotion,bootstrap,latex,regex,r,postman,rabbitmq,ps,svg,sketchup,blender,figma,vim,neovim,codepen,replit,gcp,c,js,ts,next,react,alpinejs,redux,babel,vite,astro,electron,webpack,nodejs,threejs,jenkins,jest,nginx,sqlite,mysql,mongodb,supabase,firebase,cloudflare,postgres,vercel,netlify,aws,azure,redis,wordpress,webflow,docker,kubernetes,python,django,flask,matlab,pytorch,tensorflow,ruby,kotlin,flutter,swift,androidstudio,discord,bots,aiscript&theme=dark&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,gitlab,github,githubactions,md,html,css,tailwind,windicss,sass,emotion,bootstrap,latex,regex,r,postman,rabbitmq,ps,svg,sketchup,blender,figma,vim,neovim,codepen,replit,gcp,c,js,ts,jquery,svelte,next,react,alpinejs,redux,babel,vite,vue,astro,electron,express,webpack,rollup,gulp,graphql,nodejs,ember,deno,prisma,babel,threejs,jenkins,jest,nginx,sqlite,mysql,mongodb,supabase,firebase,cloudflare,postgres,vercel,netlify,aws,azure,redis,wordpress,webflow,docker,kubernetes,haxe,python,django,flask,matlab,pytorch,tensorflow,ruby,rails,kotlin,flutter,swift,androidstudio,discord,bots,aiscript&theme=dark&perline=15" alt="Tech Stack" /> 
  </a>
 </p>
 
