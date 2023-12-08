@@ -31,6 +31,10 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![RexRowan's Stats](https://github-readme-stats.vercel.app/api?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+![RexRowan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RexRowan&theme=highcontrast&hide_border=true)
+![RexRowan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 ```vim
 Current Status:
 
