@@ -39,11 +39,10 @@
 Current Status:
 
 All Systems Operational
-
- ________________________________
-/ 1Merry Christmas and Happy New \
-\ Year!                          /
- --------------------------------
+ _______________________________
+/ Merry Christmas and Happy New \
+\ Year!                         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
