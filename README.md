@@ -7,7 +7,7 @@
 <br>
 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Rex%2C+wake+up!+;Follow+the+black+wolf!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=27&pause=1000&color=F71A7C&center=true&random=false&width=503&height=70&lines=Hello%2C+I'm+one+of+David+Malan's+kids." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
