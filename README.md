@@ -10,15 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=30&pause=1000&color=F73B62&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Sakura+falling...;or+empty+atoms+deceive+me." alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
- 
-  <a href="https://tryhackme.com/p/MeanMachineRex"><img src="https://tryhackme-badges.s3.amazonaws.com/MeanMachineRex.png" alt="169:D">
- 
-
-  <a href="https://www.codewars.com/users/Mean%20Machine%20Rex"> <img src="https://www.codewars.com/users/Mean%20Machine%20Rex/badges/large" />
- 
- </div>
-
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,gitlab,github,githubactions,md,html,css,tailwind,windicss,sass,emotion,bootstrap,latex,regex,r,postman,rabbitmq,ps,svg,sketchup,blender,figma,vim,neovim,codepen,replit,gcp,c,js,ts,jquery,svelte,next,react,alpinejs,redux,babel,vite,vue,astro,electron,express,webpack,rollup,gulp,graphql,nodejs,ember,deno,prisma,babel,threejs,jenkins,jest,nginx,sqlite,mysql,mongodb,supabase,firebase,cloudflare,postgres,vercel,netlify,aws,azure,redis,wordpress,webflow,docker,kubernetes,haxe,python,django,flask,matlab,pytorch,tensorflow,ruby,rails,kotlin,flutter,swift,androidstudio,discord,bots,aiscript&theme=dark&perline=15" alt="Tech Stack" /> 
@@ -33,9 +24,11 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 ![RexRowan's Stats](https://github-readme-stats.vercel.app/api?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 ![RexRowan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RexRowan&theme=highcontrast&hide_border=true)
 ![RexRowan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 
 ```vim
 Current Status:
