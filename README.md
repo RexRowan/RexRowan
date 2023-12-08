@@ -2,12 +2,12 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=27&pause=1000&color=F71A7C&center=true&random=false&width=503&height=70&lines=Hello%2C+I'm+one+of+David+Malan's+kids." alt="Typing SVG" /></a>
-</p>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/uS09sq6tipYAAAAC/matrix-the.gif" />
+</p>
+
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=27&pause=1000&color=F71A7C&center=true&random=false&width=503&height=70&lines=Hello%2C+I'm+one+of+David+Malan's+kids." alt="Typing SVG" /></a>
 </p>
 
 
