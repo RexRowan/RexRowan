@@ -1,5 +1,3 @@
-
-
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center">
@@ -7,7 +5,7 @@
 </p>
 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=30&pause=1000&color=F73B62&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Sakura+falling...;or+empty+atoms+deceive+me." alt="Typing SVG" /></a>
+<img src="./assets/zh.svg" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +21,6 @@
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 ![RexRowan's Stats](https://github-readme-stats.vercel.app/api?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 ![RexRowan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RexRowan&theme=highcontrast&hide_border=true)
