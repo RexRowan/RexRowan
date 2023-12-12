@@ -31,6 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexRowan&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="RexRowan's Top Languages" />
 </p>
+
 ```vim
 Current Status:
 
