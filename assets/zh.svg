@@ -35,8 +35,8 @@
     <animate attributeName="y" from="1100" to="50" begin="18s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 8 -->
-  <text x="140" y="1100" fill="white" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="100" y="1100" fill="white" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     曾益其所不能
-    <animate attributeName="y" from="1100" to="50" begin="18s" dur="3s" fill="freeze"/>
+    <animate attributeName="y" from="1100" to="50" begin="21s" dur="3s" fill="freeze"/>
   </text>
 </svg>
