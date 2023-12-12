@@ -1,41 +1,41 @@
 <svg width="420" height="300" xmlns="http://www.w3.org/2000/svg">
   <!-- Line 1 -->
-  <text x="340" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="335" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     故天將降大任於斯人也
     <animate attributeName="y" from="1100" to="50" begin="0s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 2 -->
-  <text x="300" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="295" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     必先苦其心志
     <animate attributeName="y" from="1100" to="50" begin="3s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 3 -->
-  <text x="260" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="255" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     勞其筋骨
     <animate attributeName="y" from="1100" to="50" begin="6s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 4 -->
-  <text x="220" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="215" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     餓其體膚
     <animate attributeName="y" from="1100" to="50" begin="9s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 5 -->
-  <text x="180" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="175" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     空乏其身
     <animate attributeName="y" from="1100" to="50" begin="12s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 6 -->
-  <text x="140" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="135" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     行拂亂其所為
     <animate attributeName="y" from="1100" to="50" begin="15s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 7 -->
-  <text x="100" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="95" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     所以動心忍性
     <animate attributeName="y" from="1100" to="50" begin="18s" dur="3s" fill="freeze"/>
   </text>
   <!-- Line 8 -->
-  <text x="60" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
+  <text x="55" y="1100" fill="#F75C1DFF" font-family="Arial" font-size="24" writing-mode="vertical-rl" text-orientation="upright">
     曾益其所不能
     <animate attributeName="y" from="1100" to="50" begin="21s" dur="3s" fill="freeze"/>
   </text>
