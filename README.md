@@ -67,6 +67,12 @@ All Systems Operational
 
 ```
 
+<p align="center">
+  <a href="https://paypal.me/0xMeanMachineRex?country.x=GB&locale.x=en_GB">
+    <img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=40&pause=1000&color=F72C57&center=true&vCenter=true&random=false&width=856&height=100&lines=Accepting+PayPal+Donations+with+Gratitude" alt="Typing SVG" />
+  </a>
+</p>
+
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
