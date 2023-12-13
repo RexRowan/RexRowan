@@ -8,7 +8,7 @@
 <img src="./assets/zh.svg" alt="Typing SVG" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rexrowan&theme=matrix&no-frame=true&row=2&column=10)](https://github.com/rexrowan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rexrowan&theme=juicyfresh&no-frame=true&row=2&column=10)](https://github.com/rexrowan/github-profile-trophy)
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
