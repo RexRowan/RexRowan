@@ -27,8 +27,6 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-
 ```vim
 Current Status:
 
@@ -68,8 +66,11 @@ All Systems Operational
 ```
 
 <p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
   <a href="https://paypal.me/0xMeanMachineRex?country.x=GB&locale.x=en_GB">
-    <img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=40&pause=1000&color=F72C57&center=true&vCenter=true&random=false&width=856&height=100&lines=Accepting+PayPal+Donations+with+Gratitude" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=40&pause=1000&color=F71A50&center=true&vCenter=true&random=false&width=435&height=60&lines=Click+Me" alt="Typing SVG" />
   </a>
 </p>
 
