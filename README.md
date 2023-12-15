@@ -19,6 +19,12 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=314kmzvee2bx76vz5dkfgqq4cj5i">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=314kmzvee2bx76vz5dkfgqq4cj5i" alt="Data Card for Spotify">
+</a>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ```vim
 Current Status:
