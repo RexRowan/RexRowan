@@ -8,21 +8,19 @@
 <img src="./assets/zh.svg" alt="Typing SVG" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rexrowan&theme=juicyfresh&no-frame=true&row=2&column=10)](https://github.com/rexrowan/github-profile-trophy)
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<p align="center">
+<img src="./assets/terminal.gif">
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,gitlab,github,githubactions,md,html,css,tailwind,windicss,sass,emotion,bootstrap,latex,regex,r,postman,rabbitmq,ps,svg,sketchup,blender,figma,vim,neovim,codepen,replit,gcp,c,js,ts,jquery,svelte,next,react,alpinejs,redux,babel,vite,vue,astro,electron,express,webpack,rollup,gulp,graphql,nodejs,ember,deno,prisma,babel,threejs,jenkins,jest,nginx,sqlite,mysql,mongodb,supabase,firebase,cloudflare,postgres,vercel,netlify,aws,azure,redis,wordpress,webflow,docker,kubernetes,haxe,python,django,flask,matlab,pytorch,tensorflow,ruby,rails,kotlin,flutter,swift,androidstudio,discord,bots,aiscript&theme=dark&perline=15" alt="Tech Stack" /> 
- </a>
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-[![Rex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RexRowan&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+ <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+</div>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -77,3 +75,5 @@ All Systems Operational
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+
