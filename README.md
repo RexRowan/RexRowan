@@ -29,7 +29,7 @@
 ```vim
 Current Status:
 
-All Systems Operational
+Spotify down
 
 
         ──────▄▀▄─────▄▀▄
