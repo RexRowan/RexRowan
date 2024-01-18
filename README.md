@@ -38,8 +38,8 @@ All systems operational
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <a href="https://paypal.me/0xMeanMachineRex?country.x=GB&locale.x=en_GB">
-    <img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=40&pause=1000&color=F71A50&center=true&vCenter=true&random=false&width=435&height=60&lines=Click+Me" alt="Typing SVG" />
+  <a href="https:///mean-machine-rex.itch.io/">
+    <img src="./assets/itchio.gif" alt="Itchio" /></a>
   </a>
 </p>
 
