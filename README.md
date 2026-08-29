@@ -23,7 +23,7 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
 ---
 ### 📡 Starlight Communications
 
-🔭 Transpilation Grid: rexrowan.github.io/QPortfolio
+🔭 Transpilation Grid: [rexrowan.github.io/QPortfolio](https://rexrowan.github.io/QPortfolio/)
 
 ⚡ Quantum Directives: pip install -e .[dev] into the fabric of reality
 
@@ -53,6 +53,6 @@ Please do not collapse the wavefunction until you’ve pushed to main."
 *Build. Measure. Question. Prove.*
 
 </div>
-</div>
+
 
 
