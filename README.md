@@ -12,7 +12,7 @@
 
 ### 📜 Transmission Vector
 
-I am a frozen meat popsicle pattern within the 4D spacetime manifold that attempted to abstract itself into an outside observer—a move that immediately triggered Lean 4 compiler meltdown:
+I am a frozen meat popsicle pattern embedded within the 4D spacetime manifold that attempted to abstract itself into an outside observer—a move that immediately triggered Lean 4 compiler meltdown:
 ```
 error: unsolved goals / failed to synthesize instance for 'PrivilegedPresent'.
 ```
