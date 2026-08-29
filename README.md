@@ -31,7 +31,9 @@ Thermodynamics gives irreversibility an arrow.
 Topological phases suggest that information may sometimes reside not locally, but in global structure.
 
 ---
-
+> *“There are more things in heaven and earth, Horatio,
+> Than are dreamt of in your philosophy.”*
+> 
 [SYSTEM LOG: INTERPRETATION_SEQUENCE_STARTED]
 
 Suppose an observer could stand outside the universe.
@@ -59,9 +61,6 @@ Perhaps the many worlds are not elsewhere.
 **Perhaps they are histories within one universal state.**
 
 ---
-
-> *“There are more things in heaven and earth, Horatio,
-> Than are dreamt of in your philosophy.”*
 
 
 
