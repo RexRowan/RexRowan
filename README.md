@@ -12,9 +12,9 @@
 
 ### 📜 Transmission Vector
 
-I am an embedded pattern within the 4D spacetime manifold that attempted to abstract itself into an outside observer—a move that immediately triggered Lean 4 to panic with error:
+I am an embedded pattern within the 4D spacetime manifold that attempted to abstract itself into an outside observer—a move that immediately triggered Lean 4 compiler meltdown:
 ```
-unsolved goals / failed to synthesize instance for 'PrivilegedPresent'.
+error: unsolved goals / failed to synthesize instance for 'PrivilegedPresent'.
 ```
 By day, I braid non-Abelian Majorana zero modes across topological substrates to trick quantum hardware into remaining coherent. By night, I whisper pure formal logic into the void until the statevectors collapse out of sheer anxiety.
 
