@@ -10,19 +10,13 @@
 
 ---
 
-## The work
+### 📜 Transmission Vector
 
-I build open-source quantum systems concerned with **reliability, optimisation, information and proof**.
+I am a consciousness currently localized within the damp, terrestrial coordinates of the United Kingdom. By day, I weave high-dimensional graph topologies onto noisy, flesh-and-silicon hardware. By night, I whisper pure formal logic into the void until the quantum states collapse out of sheer anxiety.
 
-**Qubit mapping · Transpilation verification · Error correction · Quantum randomness · Formal verification · ZX calculus · Algebraic codes · Quantum education**
-
-The recurring problem is simple:
-
-> **How does an exact mathematical object survive contact with an imperfect universe?**
+> **⚠️ WARNING:** If you observe me altering statevectors, please do not measure me. It ruins the superposition.
 
 ---
-
-## The physical foundation
 
 Quantum mechanics gives us amplitudes; measurement gives us records.
 
@@ -38,13 +32,7 @@ Topological phases suggest that information may sometimes reside not locally, bu
 
 Majorana zero modes sit at a particularly beautiful intersection of **quantum information, topology and condensed-matter physics**.
 
-These are the physics.
-
-**What they ultimately mean is another question.**
-
 ---
-
-## A musing
 
 [SYSTEM LOG: INTERPRETATION_SEQUENCE_STARTED]
 
@@ -72,14 +60,30 @@ Perhaps the many worlds are not elsewhere.
 
 **Perhaps they are histories within one universal state.**
 
-These are musings, not established conclusions.
+---
 
 > *“There are more things in heaven and earth, Horatio,
 > Than are dreamt of in your philosophy.”*
 
-Shakespeare had the suspicion.
 
-Physics gave it equations.
+
+```
+    ──────▄▀▄─────▄▀▄
+    ─────▄█░░▀▀▀▀▀░░█▄
+    ─▄▄──█░░░░░░░░░░░█──▄▄
+    █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+
+  [STATUS]: All system SWAPs semantics-preserving. 
+  [DECOHERENCE]: Imminent, but stylish.
+  [BELL PAIR]: Entangled across dimensions.
+
+Note: "Interpreting the above requires a local frame of reference.
+If you felt a slight existential dread while reading,
+congratulations: you are currently entangling with the document.
+Please do not collapse the wavefunction until you’ve pushed to main."
+```
+
+
 
 <div align="center">
 
@@ -89,12 +93,5 @@ Physics gave it equations.
 
 </div>
 </div>
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-
 
 
