@@ -21,6 +21,13 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
 > **⚠️ WARNING:** If you observe me altering statevectors, please do not measure me. It ruins the superposition.
 
 ---
+### 📡 Starlight Communications
+
+🔭 Transpilation Grid: rexrowan.github.io/QPortfolio
+
+⚡ Quantum Directives: pip install -e .[dev] into the fabric of reality
+
+☄️ Pro-Tip: If your statevector isn't norm-preserving, check for rogue phase shifts or cosmic ray interference.
 
 ```
     ──────▄▀▄─────▄▀▄
@@ -37,7 +44,6 @@ If you felt a slight existential dread while reading,
 congratulations: you are currently entangling with the document.
 Please do not collapse the wavefunction until you’ve pushed to main."
 ```
-
 
 
 <div align="center">
