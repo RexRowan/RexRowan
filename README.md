@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rex Rowan
+# The nth Element
 
 ### Quantum Computing · Mathematical Physics · Foundations
 
