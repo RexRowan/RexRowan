@@ -30,8 +30,6 @@ Thermodynamics gives irreversibility an arrow.
 
 Topological phases suggest that information may sometimes reside not locally, but in global structure.
 
-Majorana zero modes sit at a particularly beautiful intersection of **quantum information, topology and condensed-matter physics**.
-
 ---
 
 [SYSTEM LOG: INTERPRETATION_SEQUENCE_STARTED]
