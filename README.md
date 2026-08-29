@@ -1,6 +1,6 @@
 <div align="center">
 
-# The nth Element
+# The *n*th Element
 
 ### Quantum Computing · Mathematical Physics · Foundations
 
