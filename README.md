@@ -38,13 +38,11 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
   [STATUS]: All system SWAPs semantics-preserving. 
   [DECOHERENCE]: Imminent, but stylish.
   [BELL PAIR]: Entangled across dimensions.
-
-Note: "Interpreting the above requires a local frame of reference.
+```
+> Note: "Interpreting the above requires a local frame of reference.
 If you felt a slight existential dread while reading,
 congratulations: you are currently entangling with the document.
 Please do not collapse the wavefunction until you’ve pushed to main."
-```
-
 
 <div align="center">
 
