@@ -25,7 +25,7 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
 
 🔭 Transpilation Grid: [rexrowan.github.io/QPortfolio](https://rexrowan.github.io/QPortfolio/)
 
-⚡ Quantum Directives: pip install -e .[dev] into the fabric of reality
+⚡ Quantum Directives: ```pip install -e .[dev] into the fabric of reality```
 
 ☄️ Pro-Tip: If your statevector isn't norm-preserving, check for rogue phase shifts or cosmic ray interference.
 
