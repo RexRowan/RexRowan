@@ -1,19 +1,93 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/RexRowan/RexRowan/assets/4164511/5401aecb-60d5-4aa8-a85c-cd88dd125bd1" width="400" height="auto" alt="geisha" />
-</p>
+# Rex Rowan
 
- <p align="center">
-<img src="./assets/zh.svg" alt="Typing SVG" /></a>
-</p>
+### Quantum Computing · Mathematical Physics · Foundations
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+*Building at the boundary between mathematical structure and physical reality.*
 
+</div>
 
-<div align="center">  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="70" height="70" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="70" height="70" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="70" height="70" /></div>
+---
+
+## The work
+
+I build open-source quantum systems concerned with **reliability, optimisation, information and proof**.
+
+**Qubit mapping · Transpilation verification · Error correction · Quantum randomness · Formal verification · ZX calculus · Algebraic codes · Quantum education**
+
+The recurring problem is simple:
+
+> **How does an exact mathematical object survive contact with an imperfect universe?**
+
+---
+
+## The physical foundation
+
+Quantum mechanics gives us amplitudes; measurement gives us records.
+
+Relativity makes space and time dynamical.
+
+Quantum field theory makes particles excitations and the vacuum something considerably more interesting than emptiness.
+
+Decoherence explains the emergence of effectively classical alternatives.
+
+Thermodynamics gives irreversibility an arrow.
+
+Topological phases suggest that information may sometimes reside not locally, but in global structure.
+
+Majorana zero modes sit at a particularly beautiful intersection of **quantum information, topology and condensed-matter physics**.
+
+These are the physics.
+
+**What they ultimately mean is another question.**
+
+---
+
+## A musing
+
+*Interpretation begins here.*
+
+Suppose an observer could stand outside the universe.
+
+No external clock. No privileged present. No theatre in which events must occur.
+
+Perhaps the entire spacetime manifold simply **is**.
+
+From within, entropy gives time an arrow; decoherence turns quantum alternatives into effectively classical histories; measurement entangles observer and observed.
+
+**To measure is to entangle.**
+
+Perhaps time is not something the universe does.
+
+**Perhaps time is what existence feels like from within.**
+
+Perhaps the observer does not move through spacetime.
+
+**Perhaps the observer is a pattern within it.**
+
+And if entanglement is more fundamental than geometry, perhaps spacetime itself is emergent — not the stage upon which physics happens, but something physics does.
+
+Perhaps the many worlds are not elsewhere.
+
+**Perhaps they are histories within one universal state.**
+
+These are musings, not established conclusions.
+
+> *“There are more things in heaven and earth, Horatio,
+> Than are dreamt of in your philosophy.”*
+
+Shakespeare had the suspicion.
+
+Physics gave it equations.
+
+<div align="center">
+
+### Mathematics → Physics → Information → Reality
+
+*Build. Measure. Question. Prove.*
+
+</div>
 </div>
 
 <p align="center">
@@ -21,30 +95,6 @@
 
 
 
-```vim
-Current Status:
 
-All systems operational
-
-
-        ──────▄▀▄─────▄▀▄
-        ─────▄█░░▀▀▀▀▀░░█▄
-        ─▄▄──█░░░░░░░░░░░█──▄▄
-        █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
-
-```
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-  <a href="https:///mean-machine-rex.itch.io/">
-    <img src="./assets/itchio.gif" alt="Itchio" /></a>
-  </a>
-</p>
-
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
 
 
