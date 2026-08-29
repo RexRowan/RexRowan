@@ -46,7 +46,7 @@ These are the physics.
 
 ## A musing
 
-*Interpretation begins here.*
+[SYSTEM LOG: INTERPRETATION_SEQUENCE_STARTED]
 
 Suppose an observer could stand outside the universe.
 
