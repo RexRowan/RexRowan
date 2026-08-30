@@ -26,7 +26,7 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
 
 I am perpetually bothered by the fact that I might be splitting the entire universe into parallel timelines every single time I measure my qubits. Did I just spawn a clone of myself in another world who finally got this code to compile on the first try? I’ll never know.
 
-In a desperate attempt to resolve my quantum existential crisis (or at least quantify it), I built a whole project around it: Check out my little [demo](https://spectacular-starship-358260.netlify.app/) to see if we're living in a Many-Worlds simulation or if collapse is just playing tricks on us.
+In a desperate attempt to resolve my quantum existential crisis (or at least quantify it), I built a whole project around it: Check out my little {ledger](https://github.com/RexRowan/quantum-interpretation-ledger/blob/main/RESULTS.md) and [demo](https://spectacular-starship-358260.netlify.app/) to see if we're living in a Many-Worlds simulation or if collapse is just playing tricks on us.
 
 ---
 
