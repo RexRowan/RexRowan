@@ -24,7 +24,7 @@ error: failed to synthesize instance
 
 ---
 
-### 🌀 3:00 AM SysCall Exceptions
+## 🌀 3:00 AM SysCall Exceptions
 
 I am perpetually bothered by the realization that every single projective measurement I run might be splitting the universe into $2^N$ parallel timelines.
 
@@ -43,7 +43,7 @@ In a desperate attempt to profile the host CPU bottleneck (or prove we're stuck 
 
 ---
 
-### 📡 Subspace Comms & Telemetry
+## 📡 Subspace Comms & Telemetry
 
 - 🔭 Transpilation Grid: [rexrowan.github.io/QPortfolio](https://rexrowan.github.io/QPortfolio/)
 - ⚡ Local Manifestation: ```pip install -e .[dev] (inject directly into local spacetime)```
