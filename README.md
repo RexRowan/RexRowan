@@ -23,7 +23,7 @@ error: unsolved goals
 ─────── 𝕏 ───────
 case Hilbert Space Collapse
 H        : QuantumState LocalUniverse
-observer : TheNthElement -- [INTERFACE: OSI CLASS]
+observer : TheNthElement -- [INTERFACE: Type-Omega Sovereign Architect]
 ⊢ PrivilegedObserver ∉ LocalUniverse
   └── Hint: You are attempting to synthesize a 'Multipass' authorization 
       while trapped inside the target reference frame. Did you forget to 
