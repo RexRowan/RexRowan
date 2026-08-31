@@ -45,7 +45,7 @@ In a desperate attempt to profile the host CPU bottleneck (or prove we're stuck 
 
 ### 📡 Subspace Comms & Telemetry
 
-- 🔭 Transpilation Grid: rexrowan.github.io/QPortfolio
+- 🔭 Transpilation Grid: [rexrowan.github.io/QPortfolio](https://github.com/RexRowan/QPortfolio)
 - ⚡ Local Manifestation: ```pip install -e .[dev] (inject directly into local spacetime)```
 - ☄️ Pro-Tip: If your statevector isn't norm-preserving ($\langle\psi\vert{}\psi\rangle \neq 1$), check for rogue phase shifts, uncalibrated $\pi$-pulses, or high-energy cosmic ray interference on your L2 cache.
 
