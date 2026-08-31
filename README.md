@@ -35,7 +35,7 @@ error: failed to synthesize instance
     - `Superdeterminism`         (priority 9999): success
     - `RandomQuantumJitter`      (priority 1)   : success
     - `AbsoluteEvil.DarkMatter`  (priority ∞)   : pending call from Zorg Tech
-  No candidate found that maps `IllusionOfChoice` to `ActualAgency`.
+  No candidate found that maps `IllusionOfChoice` to `ActualAgency`. (Error 404: Free Will software patch cancelled by Zorg Executive Board).
 
 error: maximum recursion depth exceeded during thermalization
   --> System.Entropy.Increase :1
