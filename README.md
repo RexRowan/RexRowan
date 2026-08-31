@@ -29,6 +29,7 @@ I am perpetually bothered by the fact that I might be splitting the entire unive
 Or worse... what if the system admin running our simulation is just severely under-resourced? Maybe quantum superposition is just lazy evaluation to save GPU memory, and "wavefunction collapse" is just the render engine frantically loading assets right as I look at them. Honestly, I’ll never know if I’m a real observer or just an under-optimized NPC leaking memory in someone’s unhandled runtime exception.
 
 In a desperate attempt to resolve my quantum/simulation existential crisis—or at least profile the CPU bottleneck—I built a whole project around it: Check out my little [ledger](https://github.com/RexRowan/quantum-interpretation-ledger/blob/main/RESULTS.md) and [demo](https://spectacular-starship-358260.netlify.app/) to see if we're executing in a Many-Worlds multithreaded simulation, or if the server’s garbage collector is just playing tricks on our localized memory.
+
 ---
 
 ### 📡 Starlight Communications
