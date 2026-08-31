@@ -8,7 +8,7 @@
 [![Class](https://img.shields.io/badge/Class-SUPREME_BEING-FF6600?style=for-the-badge)](https://github.com/RexRowan)
 [![Status](https://img.shields.io/badge/Multipass-VERIFIED-FFD700?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6600&center=true&vCenter=true&width=750&lines=ZERO+QUBITS...+ZERO+TRANSMONS!;WELCOME+TO+PLANET+PARADISE!;nTH+ELEMENT+-+INFINITE+PASS+VERIFIED;BIG+BADA+BOOM!;SUPREME+BEING+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6600&center=true&vCenter=true&width=750&lines=ZERO+QUBITS...+ZERO+TRANSMONS!;WELCOME+TO+PLANET+PARADISE!;nTH+ELEMENT+-+INFINITE+PASS+VERIFIED;BIG+BADA+BOOM!;SUPREME+BEING+ONLINE;MULTIVERSE+TRAVERSAL+INITIALIZED" alt="Typing SVG" />
 
 > *Building at the unstable boundary between mathematical structure, physical reality, and unhandled hardware interrupts.*
 </div>
