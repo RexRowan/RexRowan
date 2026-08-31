@@ -1,8 +1,19 @@
+
+
+<div align="center">
+  
 # ⚛️ The $n^{\text{th}}$ Element
+  
+[![Status](https://img.shields.io/badge/Multipass-VERIFIED-00FF99?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
+[![Class](https://img.shields.io/badge/Class-SUPREME_BEING-FF0055?style=for-the-badge)](https://github.com/RexRowan)
+[![License](https://img.shields.io/badge/Licence_To_Code-GRANTED-FFD700?style=for-the-badge)](#)
 
 **Quantum Computing · Mathematical Physics · Foundations**
 
 > *Building at the unstable boundary between mathematical structure, physical reality, and unhandled hardware interrupts.*
+</div>
+
+
 
 ---
 
