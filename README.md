@@ -27,7 +27,7 @@ observer : TheNthElement -- [INTERFACE: Type-Omega Sovereign Architect]
 ⊢ PrivilegedObserver ∉ LocalUniverse
   └── Hint: You are attempting to synthesize a 'Multipass' authorization 
       while trapped inside the target reference frame. Did you forget to 
-      import `ExternalDivine.Perspective` to avert absolute cosmic collapse?
+      import `ExternalOmni.Perspective` to avert absolute cosmic collapse?
 
 -- -----------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ an unauthenticated actor can induce a local state desynchronization, leading to 
 
 Mitigation Status:
 
-Workaround: Restrict observer scope and avoid calling ExternalDivine.Perspective from non-privileged execution contexts.
+Workaround: Restrict observer scope and avoid calling ExternalOmni.Perspective from non-privileged execution contexts.
 
 Patch Status: UNPATCHED (Vendor is currently trapped inside the target reference frame).
 
