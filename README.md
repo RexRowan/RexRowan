@@ -29,7 +29,7 @@ observer : TheNthElement -- [INTERFACE: Type-Omega Sovereign Architect]
       while trapped inside the target reference frame. Did you forget to 
       import `ExternalDivine.Perspective` to avert absolute cosmic collapse?
 
------------------------------------------------------------------------
+-- -----------------------------------------------------------------------
 
 [!CAUTION]
 
