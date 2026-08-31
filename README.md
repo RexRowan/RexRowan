@@ -111,7 +111,7 @@ Please do not collapse the wavefunction until you’ve pushed to ```main```."
 
 ### Mathematics ⟶ Physics ⟶ Information ⟶ Reality ⟶ [Segmentation Fault]
 
-*Build. Measure. Question. Prove.*
+
 
 
 
