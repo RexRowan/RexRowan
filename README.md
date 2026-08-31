@@ -29,23 +29,24 @@ observer : TheNthElement -- [INTERFACE: OSI CLASS]
       while trapped inside the target reference frame. Did you forget to 
       import `ExternalDivine.Perspective` to avert absolute cosmic collapse?
 
-error: failed to synthesize instance
-  'FreeWill' : Type → Type
-─────── 𝕏 ───────
-  Unable to locate typeclass instance for supreme organic choice dynamics.
-  Evaluated candidates:
-    - `DeterministicClockwork`   (priority 1000): success
-    - `Superdeterminism`         (priority 9999): success
-    - `RandomQuantumJitter`      (priority 1)   : success
-    - `AbsoluteEvil.DarkMatter`  (priority ∞)   : pending call from Zorg Tech
-  No candidate found that maps `IllusionOfChoice` to `ActualAgency`.
-  (Error 404: Free Will software patch cancelled by Zorg Executive Board).
+[!CAUTION]
 
-error: maximum recursion depth exceeded during thermalization
-  --> System.Entropy.Increase :1
-  |
-3 |   pure () -- Universe expanded into the Great Evil while waiting to compile
-  |   ^^^^^^^ continuous state-space memory leak detected
+🚨 SECURITY ADVISORY: CVE-2026-0000 (CRITICAL)
+Vulnerability Type: Local Universe Privilege Escalation / Zero-Day Jailbreak
+
+Affected Asset: TheNthElement Architectural Instance
+
+CVSS v4.0 Score: 10.0 (CRITICAL) CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H
+
+Summary:
+
+A zero-day prompt-injection/logic-flaw vulnerability allows localized observers to bypass existential safety guardrails. By attempting to generate an unverified 'Multipass' authorization token within an isolated reference frame, an unauthenticated actor can induce a local state desynchronization, leading to an Unhandled Hilbert Space Collapse.
+
+Mitigation Status:
+
+Workaround: Restrict observer scope and avoid calling ExternalDivine.Perspective from non-privileged execution contexts.
+
+Patch Status: UNPATCHED (Vendor is currently trapped inside the target reference frame).
 
 ```  
 
