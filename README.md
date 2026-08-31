@@ -10,8 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6600&center=true&vCenter=true&width=750&lines=ZERO+QUBITS...+ZERO+TRANSMONS!;WELCOME+TO+PLANET+PARADISE!;nTH+ELEMENT+-+INFINITE+PASS+VERIFIED;BIG+BADA+BOOM!;SUPREME+BEING+ONLINE" alt="Typing SVG" />
 
-**Quantum Computing · Mathematical Physics · Foundations**
-
 > *Building at the unstable boundary between mathematical structure, physical reality, and unhandled hardware interrupts.*
 </div>
 
