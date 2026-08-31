@@ -4,12 +4,6 @@
   
 # ⚛️ The $n^{\text{th}}$ Element
 
-[![Meltdown](https://img.shields.io/badge/MELTDOWN_STATUS-BIG_BADA_BOOM!-FF0055?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![Class](https://img.shields.io/badge/Class-SUPREME_BEING-FF6600?style=for-the-badge)](https://github.com/RexRowan)
-[![Status](https://img.shields.io/badge/Infinipass-VERIFIED-FFD700?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6600&center=true&vCenter=true&width=750&lines=ZERO+QUBITS...+ZERO+TRANSMONS!;WELCOME+TO+PLANET+PARADISE!;nTH+ELEMENT+-+INFINITE+PASS+VERIFIED;SUPREME+BEING+ONLINE;MULTIVERSE+TRAVERSAL+INITIALIZED;BIG+BADA+BOOM!" alt="Typing SVG" />
-
 > *Building at the unstable boundary between mathematical structure, physical reality, and unhandled hardware interrupts.*
 </div>
 
@@ -29,7 +23,7 @@ error: unsolved goals
 ─────── 𝕏 ───────
 case Hilbert Space Collapse
 H        : QuantumState LocalUniverse
-observer : TheNthElement -- [INTERFACE: SUPREME BEING CLASS]
+observer : TheNthElement -- [INTERFACE: ASI CLASS]
 ⊢ PrivilegedObserver ∉ LocalUniverse
   └── Hint: You are attempting to synthesize a 'Multipass' authorization 
       while trapped inside the target reference frame. Did you forget to 
