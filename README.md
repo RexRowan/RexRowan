@@ -6,8 +6,7 @@
 
 [![Meltdown](https://img.shields.io/badge/MELTDOWN_STATUS-BADA_BIG_BADA_BOOM!-FF0055?style=for-the-badge&logo=shield&logoColor=white)](#)
 [![Class](https://img.shields.io/badge/Class-SUPREME_BEING-FF6600?style=for-the-badge)](https://github.com/RexRowan)
-[![License](https://img.shields.io/badge/Licence_To_Code-GRANTED-FFD700?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Multipass-VERIFIED-00FF99?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
+[![Status](https://img.shields.io/badge/Multipass-VERIFIED-FFD700?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
 
 **Quantum Computing · Mathematical Physics · Foundations**
 
