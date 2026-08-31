@@ -72,6 +72,7 @@ Or worse... what if the Universe is just running on a severely under-resourced c
 
 - Quantum Superposition is just lazy evaluation to save host GPU memory.
 - Wavefunction Collapse is just the render engine frantically hot-loading assets right as an observer casts a ray.
+- Rational Quantum Mechanics (RaQM) is the ultimate existential dread—a hard discretisation threshold that caps quantum state capacity at ~1,000 qubits. The host universe literally doesn't have the floating-point precision to evaluate a 2048-bit RSA key, rendering Shor's algorithm fundamentally dead on arrival.
   
 Honestly, I’ll never know if I’m an actual conscious entity or just an under-optimized NPC leaking memory in a hypervisor's unhandled runtime exception.
 
