@@ -16,7 +16,7 @@ I am a localized $C^\infty$-manifold of organic carbon compounds, currently tryi
 ```lean
 -- -----------------------------------------------------------------------
 -- [SYSTEM CRITICAL]: Compilation failed in module `Quantum.Foundations.Existential`
--- [LOCATION]: Sector 82 | Frame: 03:00 AM
+-- [Local Coordinates]: Galaxy HD 108154 // Sol-3 (Earth) | Frame: 03:00 AM
 -- -----------------------------------------------------------------------
 
 error: unsolved goals
