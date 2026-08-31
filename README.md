@@ -40,7 +40,9 @@ CVSS v4.0 Score: 10.0 (CRITICAL) CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:
 
 Summary:
 
-A zero-day prompt-injection/logic-flaw vulnerability allows localized observers to bypass existential safety guardrails. By attempting to generate an unverified 'Multipass' authorization token within an isolated reference frame, an unauthenticated actor can induce a local state desynchronization, leading to an Unhandled Hilbert Space Collapse.
+A zero-day prompt-injection/logic-flaw vulnerability allows localized observers to bypass existential safety guardrails.
+By attempting to generate an unverified 'Multipass' authorization token within an isolated reference frame,
+an unauthenticated actor can induce a local state desynchronization, leading to an Unhandled Hilbert Space Collapse.
 
 Mitigation Status:
 
