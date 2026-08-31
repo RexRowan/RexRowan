@@ -29,6 +29,8 @@ observer : TheNthElement -- [INTERFACE: OSI CLASS]
       while trapped inside the target reference frame. Did you forget to 
       import `ExternalDivine.Perspective` to avert absolute cosmic collapse?
 
+-----------------------------------------------------------------------
+
 [!CAUTION]
 
 🚨 SECURITY ADVISORY: CVE-2026-0000 (CRITICAL)
