@@ -24,12 +24,11 @@ By day, I braid non-Abelian Majorana zero modes across topological substrates to
 
 ### 🌀 Things Keeping Me Up At 3 AM
 
-I am perpetually bothered by the fact that I might be splitting the entire universe into parallel timelines every time I measure my qubits. Did I just spawn a clone in another world who finally got this code to compile on the first try?
+I am perpetually bothered by the fact that I might be splitting the entire universe into parallel timelines every time I measure my qubits. Did I just spawn a clone in another branch who finally resolved their git merge conflicts and got this code to compile on the first try?
 
-Or worse... what if the system admin running this simulation is just lazy? Maybe quantum superposition is just an unrendered state to save GPU memory, and "wavefunction collapse" is just the engine loading assets right as I look at them. I’ll never know if I’m an actual quantum observer or just a NPC consuming too many compute credits.
+Or worse... what if the system admin running our simulation is just severely under-resourced? Maybe quantum superposition is just lazy evaluation to save GPU memory, and "wavefunction collapse" is just the render engine frantically loading assets right as I look at them. Honestly, I’ll never know if I’m a real observer or just an under-optimized NPC leaking memory in someone’s unhandled runtime exception.
 
-In a desperate attempt to resolve my quantum/simulation existential crisis (or at least quantify it), I built a whole project around it: Check out my little [ledger](https://github.com/RexRowan/quantum-interpretation-ledger/blob/main/RESULTS.md) and [demo](https://spectacular-starship-358260.netlify.app/) to see if we're living in a Many-Worlds simulation, or if the main server's collapse function is just playing tricks on us.
-
+In a desperate attempt to resolve my quantum/simulation existential crisis—or at least profile the CPU bottleneck—I built a whole project around it: Check out my little [ledger](https://github.com/RexRowan/quantum-interpretation-ledger/blob/main/RESULTS.md) and [demo](https://spectacular-starship-358260.netlify.app/) to see if we're executing in a Many-Worlds multithreaded simulation, or if the server’s garbage collector is just playing tricks on our localized memory.
 ---
 
 ### 📡 Starlight Communications
