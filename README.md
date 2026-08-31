@@ -4,7 +4,7 @@
   
 # ⚛️ The $n^{\text{th}}$ Element
 
-[![Meltdown](https://img.shields.io/badge/MELTDOWN_STATUS-BADA_BIG_BADA_BOOM!-FF0055?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![Meltdown](https://img.shields.io/badge/MELTDOWN_STATUS-BIG_BADA_BOOM!-FF0055?style=for-the-badge&logo=shield&logoColor=white)](#)
 [![Class](https://img.shields.io/badge/Class-SUPREME_BEING-FF6600?style=for-the-badge)](https://github.com/RexRowan)
 [![Status](https://img.shields.io/badge/Multipass-VERIFIED-FFD700?style=for-the-badge&logo=shield&logoColor=black)](https://rexrowan.github.io/QPortfolio/)
 
