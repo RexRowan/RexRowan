@@ -77,7 +77,7 @@ Honestly, I’ll never know if I’m an actual conscious entity or just an under
 
 In a desperate attempt to profile the host CPU bottleneck (or prove we're stuck in a multithreaded Many-Worlds process), I built a project around it:
 
-👉 Check out the [ledger](https://github.com/RexRowan/quantum-interpretation-ledger/blob/main/RESULTS.md) and [demo](https://spectacular-starship-358260.netlify.app/) on my profile to see if we're executing on a multi-threaded quantum engine or if the server’s Garbage Collector is just playing tricks on our localized heap memory.
+👉 Check out the [ledger](https://rexrowan.github.io/quantum-interpretation-ledger/) and [demo](https://spectacular-starship-358260.netlify.app/) on my profile to see if we're executing on a multi-threaded quantum engine or if the server’s Garbage Collector is just playing tricks on our localized heap memory.
 
 ---
 
